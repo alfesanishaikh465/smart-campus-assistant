@@ -15,6 +15,3 @@ An AI-powered Smart Campus Assistant built using Python, Streamlit, SQLite, and 
 - SQLite
 - Google Gemini API
 - Git & GitHub
-
-## Live Demo
-https://smart-campus-assistant-a4ummytbfpdnyhvdx72g3p.streamlit.app
